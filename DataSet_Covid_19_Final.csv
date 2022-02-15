@@ -1,0 +1,33 @@
+Continent;Population;LUSI
+Europe;Wards;42,31601732
+Asia;Wards;29,44444444
+Europe;Wards;62,5
+Asia;Wards;18,84057971
+Asia;Hospitalized;52,55208333
+Europe;Emergency;31,81189488
+Europe;ICU;61,11111111
+Europe;Nursing home;8,333333333
+Europe;Emergency and ICU;42,38888889
+Europe;Rehabilitation unit;20,83333333
+South America;Home;8,333333333
+Asia;Hospitalized;41,66666667
+Asia;Pregnancy ward;50,81300813
+Europe;Wards;42,59259259
+Europe;Hospitalized;19,44444444
+Europe;Emergency;35,91666667
+Europe;Wards;29,00568182
+Asia;Hospitalized;39,18518519
+Europe;ICU;46,66666667
+Europe;Emergency;50,27777778
+Europe;ICU;52,77777778
+Asia;Hospitalized;14,81481481
+Europe;Wards;57,82564103
+Europe;Emergency;38,88888889
+Europe;Wards;33,33333333
+Europe;ICU;50
+Europe;Hospitalized;26,79938272
+Asia;ICU;75
+South America;Emergency;51,94444444
+Europe;Emergency;37,22222222
+Europe;ICU;57,6
+Europe;Hospitalized;43,71141975
